@@ -1,7 +1,7 @@
-# EMG-decoding-Arduino
+# EMG decoding based on Arduino electrodes
 
 ## Introduction
-The idea is to find a good setup to retrieve and measure the quality of EMG signals for further applications, for instance to control a robotic hand prosthesis based on forearm muscle contractions. The obtained results show that these Myoware sensors could be as good as the Noraxon sensors, with SNR value up to 6.8. 
+The idea is to find a good setup to retrieve and measure the quality of EMG signals using Myoware sensors for further applications, for instance to control a robotic hand prosthesis based on forearm muscle contractions. The obtained results show that these sensors could be as good as the Noraxon sensors, with SNR value up to 6.8. 
 
 ## Organisation
 This project is organized as follows :
